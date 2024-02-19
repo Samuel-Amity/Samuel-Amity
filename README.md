@@ -1,7 +1,6 @@
-<img height = " 250" width="10000" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif">
-
 <h1 align="center">Hi 👋, I'm Samuel Nathan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<img height = " 250" width="10000" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif">
 
 ~~~
                                                                               ╔══════════════════════════════════════════╗
@@ -37,8 +36,7 @@ I've adjusted the ASCII art and added some additional spacing to
 </p>
 <br>
 
-[![my ststa!](https://github-readme-stats-one-bice.vercel.app/api?username=Samuel-Amity&theme=dark&include_all_commits=true&show_icons=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&include_orgs=true)](https://github.com/Samuel-Amity)
-
+<p align="center"> <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Samuel-Amity&theme=dark&include_all_commits=true&show_icons=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&include_orgs=true" alt="sam" /> </p>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=sam&label=Profile%20views&color=0e75b6&style=flat" alt="sam" /> </p>
 
 <!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sam&show_icons=true&locale=en&layout=compact" alt="sam" /></p> -->
